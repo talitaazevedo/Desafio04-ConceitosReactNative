@@ -29,6 +29,8 @@ A aplicação deve ser capaz de criar uma lista de todos os repositórios que es
 Para o ambiente de Desenvolvimento instale as dependencias abaixo utlizando,gerenciador de pacote não esqueça de iniciar o servidor do backend.
 
 ### Api configurada para consumir o backend em localhost
+
+Utilize o gerenciador de pactes para instalar a pasta node_modules.
 ```js
 "http://localhost:3333",
 
